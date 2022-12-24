@@ -14,4 +14,4 @@
 | 更新后提交                                                   |                                                              |
 | 将修改后的代码添加到暂存区                                   | `git add .`                                                  |
 | 将修改后的代码提交到gitee仓库，并注释修改了什么内容          | `git commit -m "xxxx"`                                       |
-| 本地仓库内容推送到远程                                       | `git push origin master ('main' for blog commit)`            |
+| 本地仓库内容推送到远程 （VPN要么都挂要么都不挂）             | `git push origin master ('main' for blog commit)`            |
