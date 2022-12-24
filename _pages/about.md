@@ -20,7 +20,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings! 
-I'm Dongyu Yao (姚栋宇), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spend three years studying at No.1 Middle School Affiliated to CCNU. My research interest are broadly in Computer Vision, Artificial Intelligence Security & Privacy, and recently Public Opinion Analysis related to Natural Language Processing.
+I'm Dongyu Yao (姚栋宇), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interest are broadly in Computer Vision, Artificial Intelligence Security & Privacy, and recently Public Opinion Analysis related to Natural Language Processing.
 
 
 
