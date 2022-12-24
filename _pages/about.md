@@ -37,7 +37,7 @@ I'm Dongyu Yao (姚栋宇), a junior undergraduate student at the [School of Cyb
 # 🔥 News
 
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU
-- *2022.05*: I, teamed up with Pinji Chen and Yifan Zhang, won  the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide). 
+- *2022.05*: Teamed up with Pinji Chen and Yifan Zhang, we won  the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide). 
 
 
 # 📝 Publications 
