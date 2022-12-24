@@ -22,7 +22,7 @@ redirect_from:
 Greetings! 
 I'm Dongyu Yao (姚栋宇), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spend three years studying at No.1 Middle School Affiliated to CCNU. My research interest are broadly in Computer Vision, Artificial Intelligence Security & Privacy, and recently Public Opinion Analysis related to Natural Language Processing.
 
-
+  
 
 
 
@@ -46,7 +46,7 @@ To be updated...
 - *2022.10* **Second Class Scholarship of WHU**. (Award Rate: 10% school-wide) Wuhan University
 - *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) COMAP
 - *2021.12* **First Prize** in Top-10 Instrumentalists Competition. (Award Rate: 2% school-wide) Wuhan University
-- *2020.12* **Second Prize** in the 6th National University Student Art Festival, perform
+- *2020.12* **Second Prize** in the 6th National University Student Art Festival
 
 # 📖 Educations
 - *2020.09 - now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Cyberspace Security. 
