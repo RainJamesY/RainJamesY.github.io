@@ -30,12 +30,14 @@ I'm Dongyu Yao (姚栋宇), a junior undergraduate student at the [School of Cyb
 
 - Machine learning and Computer Vision
   - Domain Adaptation/Transfer learning
+  - Semi-supervised Learning
 - Artificial Intelligence Security & Privacy
 - Natural Language Processing (expanded from current course)
 
 # 🔥 News
 
-To be updated...
+- *2022.10*: I won Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU
+- *2022.05*: Our team won the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide). Teamed up with Pinji Chen and Yifan Zhang.
 
 
 # 📝 Publications 
@@ -43,10 +45,12 @@ To be updated...
 
 
 # 🎖 Honors and Awards
-- *2022.10* **Second Class Scholarship of WHU**. (Award Rate: 10% school-wide) Wuhan University
-- *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) COMAP
-- *2021.12* **First Prize** in Top-10 Instrumentalists Competition. (Award Rate: 2% school-wide) Wuhan University
-- *2020.12* **Second Prize** in the 6th National University Student Art Festival
+- *2022.10* **Second Class Scholarship of WHU**. (Award Rate: 10% school-wide) *Wuhan University*
+- *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
+- *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) *COMAP*
+- *2021.12* **First Prize** in Top-10 Instrumentalists Competition. (Award Rate: 1% school-wide) *Wuhan University*
+- *2021.07* **Second Prize** in the 6th National University Student Art Festival (Award Rate: 15% nation-wide) *Ministry of Education, China*
+- *2021.07* **First Prize** in the 7th Provincial University Student Art Festival (Award Rate: 5% Province-wide) *Ministry of Education, Hubei Province*
 
 # 📖 Educations
 - *2020.09 - now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Cyberspace Security. 
@@ -70,7 +74,23 @@ To be invited...
 
 
 
+# 🍲 Misc
+
+## 🥁 Music Band and Symphony Orchestra
+
+- *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
+- *2022.05*: [22's Midsummer Music Festival]( https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
+- *2020.12*: [2021 New Year's Concert]( https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Qintai Concert Hall, Wuhan
+
+
+
 # 🖇️ Friend Links
 
-I highly recommend [Boheng Li's Homepage](https://antigonerandy.github.io/).
+I highly recommend [Boheng Li's Homepage](https://antigonerandy.github.io/), from whom I witness the greatest potential in academic achievements among all my peers.
+
+
+
+# Acknowledgements
+
+This homepage project is forked from [RayeRen's 'AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
 
