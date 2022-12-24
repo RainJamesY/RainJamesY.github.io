@@ -70,3 +70,7 @@ To be invited...
 
 
 
+# 🖇️ Friend Links
+
+I highly recommend [Boheng Li's Homepage](https://antigonerandy.github.io/).
+
