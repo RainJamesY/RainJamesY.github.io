@@ -20,7 +20,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings! 
-I'm Dongyu Yao (姚栋宇), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interest are broadly in Computer Vision, Artificial Intelligence Security & Privacy, and recently Public Opinion Analysis related to Natural Language Processing.
+I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interest are broadly in Computer Vision, Artificial Intelligence Security & Privacy, and recently Public Opinion Analysis related to Natural Language Processing.
 
 
 
@@ -36,15 +36,27 @@ I'm Dongyu Yao (姚栋宇), a junior undergraduate student at the [School of Cyb
 
 # 🔥 News
 
+- *2023.5:* 2 of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%)
+
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU.
 - *2022.05*: Teamed up with Pinji Chen and Yifan Zhang, we won  the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide). 
 
 
 # 📝 Publications 
-To be updated...
+## 🖨️ In submission
+
+- Dual-level Interaction for Domain Adaptive Semantic Segmentation
+
+  **Dongyu Yao**, Boheng Li, Run Wang, Lina Wang
+
+  Submitted to the Journal of *IEEE Transactions on Circuits and Systems for Video Technology* for reviewing
+
 
 
 # 🎖 Honors and Awards
+
+- *2023.5* **First Prize** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%)
+
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) *COMAP*
@@ -58,7 +70,11 @@ To be updated...
 - *2014.09 - 2017.06*, Junior High School, Hubei Jingmen Foreign Language School, China.
 
 # 💻 Internships
-- *2022.7 - 2022.11*, Student Research Assistant at [Capstone Overseas Research](http://www.capstone-research.com/),  Supervised by Ian Deng and [Chang Liu](https://sites.google.com/view/cliu5/home).
+
+- *2023.7 - 2023.9*, UCInspire Summer Research Program, Supervised by Prof. Fadi J. Kurdahi
+
+- *2022.7 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. Run Wang
+- *2022.3 - 2022.11,* Student Research Assistant at NIS&P lab, supervised by Prof. Qian Wang
 
 
 
@@ -70,7 +86,7 @@ To be updated...
 
 ## Invited Talks
 
-To be invited...
+- How to prepare for TOEFL listening and speaking, spring 2023. [ [slides](..\slides\托福听力口语分享.pdf) ]
 
 
 
@@ -84,13 +100,7 @@ To be invited...
 
 
 
-# 🖇️ Friend Links
-
-I highly recommend [Boheng Li's Homepage](https://antigonerandy.github.io/), from whom I witness the greatest potential in academic achievements among all my peers.
 
 
 
-# Acknowledgements
-
-This homepage project is forked from [RayeRen's 'AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
 
