@@ -30,7 +30,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
   - Domain Adaptation/Transfer learning
   - Semi-supervised Learning
 - Artificial Intelligence Security & Privacy
-- Natural Language Processing (expanded from current course)
+- Natural Language Processing 
 
 
 
@@ -69,7 +69,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 
 # 📖 Educations
-- *2020.09 - now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Cyberspace Security. 
+- *2020.09 - now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Major in Cyberspace Security. 
 - *2017.09 - 2020.06*, Senior High School, No.1 Middle School Affliated to CCNU, China.
 - *2014.09 - 2017.06*, Junior High School, Hubei Jingmen Foreign Language School, China.
 
