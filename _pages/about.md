@@ -70,14 +70,14 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 📖 Educations
 - *2020.09 - now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Major in Cyberspace Security. 
-- *2017.09 - 2020.06*, Senior High School, No.1 Middle School Affliated to CCNU, China.
+- *2017.09 - 2020.06*, Senior High School, No.1 Middle School Affiliated to CCNU, China.
 - *2014.09 - 2017.06*, Junior High School, Hubei Jingmen Foreign Language School, China.
 
 
 
 # 💻 Internships
 
-- *2023.7 - 2023.9*, University of California, Irvine, UCInspire Summer Research Program, Supervised by [Prof. Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
+- *2023.7 - 2023.9*, UCInspire Summer Research Program (University of California, Irvine), Supervised by [Prof. Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 
 - *2022.7 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by [Prof. Run Wang](http://wangrun.git
   hub.io)
