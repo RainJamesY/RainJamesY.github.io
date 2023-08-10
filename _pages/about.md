@@ -20,7 +20,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings! 
-I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interest are broadly in Computer Vision, Artificial Intelligence Security & Privacy, and recently Public Opinion Analysis related to Natural Language Processing.
+I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interest are broadly in Machine Learning, Computer Vision, and Artificial Intelligence Security & Privacy.
 
 
 
@@ -30,13 +30,16 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
   - Domain Adaptation/Transfer learning
   - Semi-supervised Learning
 - Artificial Intelligence Security & Privacy
-- Natural Language Processing 
+  - Security in Large Language Models (Natural Language Processing)
+
 
 
 
 # 🔥 News
 
-- *2023.5:* 2 of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%)
+- *2023.8:* One paper is accepted by ICCVW UnCV 2023.
+
+- *2023.5:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%)
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU.
 - *2022.05*: Teamed up with Pinji Chen and Yifan Zhang, we won  the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide). 
 
@@ -46,19 +49,17 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 <sup>&dagger;</sup>: equal contribution, <sup>*</sup>: corresponding author
 
-## 🖨️ Preprints & In Submission
-
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)
 
-  **Dongyu Yao**<sup>&dagger;</sup>, Boheng Li<sup>&dagger;</sup>, Run Wang, Lina Wang
+  **Dongyu Yao**, Boheng Li<sup>*</sup>
 
-  *arXiv Preprint & In Submission, 2023*
+  *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
 
 # 🎖 Honors and Awards
 
-- *2023.5* **First Prize** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%)
+- *2023.5* **First Prize** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) *COMAP*
