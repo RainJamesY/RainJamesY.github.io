@@ -56,12 +56,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
   *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
   
   
-
-```
-<!-- 🖨️In submission & Preprint。-->
-```
-
-
+  
+  ## <!-- 🖨️In submission & Preprint。-->
 
 # 🎖 Honors and Awards
 
