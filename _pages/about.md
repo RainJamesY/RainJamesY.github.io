@@ -80,7 +80,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 💻 Internships
 
-- *2023.7 - 2023.9*, UCInspire Summer Research Program (University of California, Irvine), Supervised by [Prof. Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
+- *2023.7 - 2023.9*, UCInspire Summer Research Program (University of California Irvine), Supervised by [Prof. Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 
 - *2022.7 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by [Prof. Run Wang](http://wangrun.git
   hub.io)
@@ -104,6 +104,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 # 🍲 Misc
 
 ## 🥁 Music Band and Symphony Orchestra
+
+- *2023.5*: [23's Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
 
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22's Midsummer Music Festival]( https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
