@@ -57,7 +57,21 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
   
   
   
-  ## <!-- 🖨️In submission & Preprint。-->
+  
+  
+  ## 🖨️In submission & Preprint
+
+- [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)
+
+  Dongyu Yao, Jianshu Zhang, Ian G. Harris<sup>*</sup>, Marcel Carlsson
+
+  A preprint version
+
+
+
+
+
+
 
 # 🎖 Honors and Awards
 
