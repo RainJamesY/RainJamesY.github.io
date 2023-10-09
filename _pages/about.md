@@ -40,7 +40,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author 
 
-- [Dual-level Interaction for Domain Adaptive Semantic Segmentation]([ICCV 2023 Open Access Repository (thecvf.com)](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/html/Yao_Dual-Level_Interaction_for_Domain_Adaptive_Semantic_Segmentation_ICCVW_2023_paper.html))
+- [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/html/Yao_Dual-Level_Interaction_for_Domain_Adaptive_Semantic_Segmentation_ICCVW_2023_paper.html)
 
   **Dongyu Yao**, Boheng Li<sup>*</sup> 
 
