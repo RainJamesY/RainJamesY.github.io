@@ -88,10 +88,10 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 💻 Internships
 
-- *2023.7 - 2023.9*, UCInspire Summer Research Program (University of California Irvine), Supervised by [Prof. Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
-- *2022.7 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by [Prof. Run Wang](http://wangrun.git
+- *2023.7 - 2023.9*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
+- *2022.7 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
   hub.io)
-- *2022.3 - 2022.11,* Student Research Assistant at NIS&P lab, supervised by [Prof. Qian Wang](http://nisplab.whu.edu.cn/people.html)
+- *2022.3 - 2022.11,* Student Research Assistant at NIS&P lab, supervised by Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html)
 
 
 
