@@ -35,7 +35,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 🔥 News
 
-- *2023.10*: I won the National Scholarship (0.2% national-wide)
+- *2023.10*: I won the National Scholarship (0.2% national-wide).
 
 - *2023.10:* I ranked 1/144 in the annual comprehensive assessment (the only participant with a 90+ overall score).
 
@@ -71,8 +71,9 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
+- *2023.8* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nation-wide)
 
-- *2023.5* **First Prize** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
+- *2023.5* **First Prize*2** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) *COMAP*
