@@ -21,8 +21,6 @@ redirect_from:
 Greetings!
 I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interests broadly lie in Machine Learning, Computer Vision, and Artificial Intelligence Security & Privacy.
 
-
-
 # 🔬 Research Interest
 
 - Machine learning and Computer Vision
@@ -31,48 +29,37 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - Artificial Intelligence Security & Privacy
   - Security in Large Language Models (Natural Language Processing)
 
-
-
 # 🔥 News
 
 - *2023.10*: I won the National Scholarship (0.2% national-wide).
-
 - *2023.10:* I ranked 1/144 in the annual comprehensive assessment (the only participant with a 90+ overall score).
-
 - *2023.8:* One paper is accepted by ICCVW UnCV 2023.
 - *2023.5:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU.
 - *2022.05*: Teamed up with Pinji Chen and Yifan Zhang, we won  the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide).
 
-
-
 # 📝 Publications
 
-<sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author 
+`<sup>`&dagger;`</sup>` : equal contribution, `<sup>`*`</sup>` : corresponding author
 
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/html/Yao_Dual-Level_Interaction_for_Domain_Adaptive_Semantic_Segmentation_ICCVW_2023_paper.html)
 
-  **Dongyu Yao**, Boheng Li<sup>*</sup> 
+  **Dongyu Yao**, Boheng Li`<sup>`*`</sup>`
 
   [*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*](https://uncv2023.github.io/papers/)
 
   ## 🖨️In submission & Preprint
-  
 - [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)
 
-  **Dongyu Yao**, Jianshu Zhang, Ian G. Harris<sup>*</sup> , Marcel Carlsson
+  **Dongyu Yao**, Jianshu Zhang, Ian G. Harris`<sup>`*`</sup>` , Marcel Carlsson
 
   A preprint version
-
-
 
 # 🎖 Honors and Awards
 
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
-
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
 - *2023.8* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nation-wide)
-
 - *2023.5* **First Prize*2** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
@@ -81,15 +68,11 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - *2021.07* **Second Prize** in the 6th National University Student Art Festival (Award Rate: 15% nation-wide) *Ministry of Education, China*
 - *2021.07* **First Prize** in the 7th Provincial University Student Art Festival (Award Rate: 5% Province-wide) *Ministry of Education, Hubei Province*
 
-
-
-# 📖 Educations
+# 📖 Education
 
 - *2020.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. Major in Cyberspace Security.
 - *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn/Default.aspx), China.
 - *2014.09 - 2017.06*, Junior High School, Hubei Jingmen Foreign Language School, China.
-
-
 
 # 💻 Internships
 
@@ -97,8 +80,6 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - *2022.7 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
   hub.io)
 - *2022.3 - 2022.11,* Student Research Assistant at NIS&P lab, supervised by Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html)
-
-
 
 # 🎢 Activities
 
@@ -109,8 +90,6 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 ## Invited Talks
 
 - How to prepare for TOEFL listening and speaking, invited by New Oriental Education (新东方), spring 2023. [ [slides](..\slides\托福听力口语分享.pdf) ]
-
-
 
 # 🍲 Misc
 
