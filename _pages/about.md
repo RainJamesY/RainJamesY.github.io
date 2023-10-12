@@ -85,8 +85,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 📖 Educations
 
-- *2020.09 - now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Major in Cyberspace Security.
-- *2017.09 - 2020.06*, Senior High School, No.1 Middle School Affiliated to CCNU, China.
+- *2020.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. Major in Cyberspace Security.
+- *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn/Default.aspx), China.
 - *2014.09 - 2017.06*, Junior High School, Hubei Jingmen Foreign Language School, China.
 
 
