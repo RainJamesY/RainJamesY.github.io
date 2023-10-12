@@ -40,18 +40,18 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 📝 Publications
 
-`<sup>`&dagger;`</sup>` : equal contribution, `<sup>`*`</sup>` : corresponding author
+<sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/html/Yao_Dual-Level_Interaction_for_Domain_Adaptive_Semantic_Segmentation_ICCVW_2023_paper.html)
 
-  **Dongyu Yao**, Boheng Li`<sup>`*`</sup>`
+  **Dongyu Yao**, Boheng Li<sup>*</sup>
 
   [*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*](https://uncv2023.github.io/papers/)
 
   ## 🖨️In submission & Preprint
 - [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)
 
-  **Dongyu Yao**, Jianshu Zhang, Ian G. Harris`<sup>`*`</sup>` , Marcel Carlsson
+  **Dongyu Yao**, Jianshu Zhang, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
   A preprint version
 
