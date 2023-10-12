@@ -68,7 +68,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - *2021.07* **Second Prize** in the 6th National University Student Art Festival (Award Rate: 15% nation-wide) *Ministry of Education, China*
 - *2021.07* **First Prize** in the 7th Provincial University Student Art Festival (Award Rate: 5% Province-wide) *Ministry of Education, Hubei Province*
 
-# 📖 Education
+# 📖 Educations
 
 - *2020.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. Major in Cyberspace Security.
 - *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn/Default.aspx), China.
