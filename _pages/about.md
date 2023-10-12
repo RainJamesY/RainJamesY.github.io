@@ -33,8 +33,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 - *2023.10*: I won the National Scholarship (0.2% national-wide).
 - *2023.10:* I ranked 1/144 in the annual comprehensive assessment (the only participant with a 90+ overall score).
-- *2023.8:* One paper is accepted by ICCVW UnCV 2023.
-- *2023.5:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
+- *2023.08:* One paper is accepted by ICCVW UnCV 2023.
+- *2023.05:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU.
 - *2022.05*: Teamed up with Pinji Chen and Yifan Zhang, we won  the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide).
 
@@ -59,8 +59,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
-- *2023.8* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nation-wide)
-- *2023.5* **First Prize*2** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
+- *2023.08* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nation-wide)
+- *2023.05* **First Prize*2** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) *COMAP*
@@ -76,16 +76,16 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 💻 Internships
 
-- *2023.7 - 2023.9*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
-- *2022.7 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
+- *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
+- *2022.07 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
   hub.io)
-- *2022.3 - 2022.11,* Student Research Assistant at NIS&P lab, supervised by Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html)
+- *2022.03 - 2022.11,* Student Research Assistant at NIS&P lab, supervised by Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html)
 
 # 🎢 Activities
 
 ## Services
 
-- *2020.9 - now*, Chief Percussionist at Wuhan University Symphony Orchestra
+- *2020.09 - now*, Chief Percussionist at Wuhan University Symphony Orchestra
 
 ## Invited Talks
 
@@ -95,7 +95,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 ## 🥁 Music Band and Symphony Orchestra
 
-- *2023.5*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
+- *2023.05*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
 - *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Qintai Concert Hall, Wuhan
