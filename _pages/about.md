@@ -55,7 +55,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
   A preprint version
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
