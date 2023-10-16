@@ -19,7 +19,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings!
-I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interests broadly lie in Machine Learning, Computer Vision, and Artificial Intelligence Security & Privacy.
+I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interests broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), and Artificial Intelligence Security & Privacy.
 
 # 🔬 Research Interest
 
@@ -31,7 +31,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 🔥 News
 
-- *2023.10*: I won the National Scholarship (0.2% national-wide).
+- *2023.10*: I won the National Scholarship (0.2% national-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 - *2023.10:* I ranked 1/144 in the annual comprehensive assessment (the only participant with a 90+ overall score).
 - *2023.08:* One paper is accepted by ICCVW UnCV 2023.
 - *2023.05:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
@@ -56,6 +56,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
   A preprint version
 
 # 🏅 Honors and Awards
+
+- *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
 
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
