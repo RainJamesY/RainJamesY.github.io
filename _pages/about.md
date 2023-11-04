@@ -36,7 +36,6 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - *2023.08:* One paper is accepted by ICCVW UnCV 2023.
 - *2023.05:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU.
-- *2022.05*: Teamed up with Pinji Chen and Yifan Zhang, we won  the Honorable Mention (Second Prize) in 2022 MCM/ICM Competition (Award Rate: 15% world-wide).
 
 # 📝 Publications
 
@@ -65,7 +64,6 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - *2023.05* **First Prize*2** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
-- *2022.05* **Honorable Mention** in 2022 Mathematical Contest In Modeling. (Award Rate: 15% world-wide) *COMAP*
 - *2021.12* **First Prize** in Top-10 Instrumentalists Competition. (Award Rate: 1% school-wide) *Wuhan University*
 - *2021.07* **Second Prize** in the 6th National University Student Art Festival (Award Rate: 15% nation-wide) *Ministry of Education, China*
 - *2021.07* **First Prize** in the 7th Provincial University Student Art Festival (Award Rate: 5% Province-wide) *Ministry of Education, Hubei Province*
