@@ -99,3 +99,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
 - *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Qintai Concert Hall, Wuhan
+
+## 🏀Basketball Team
+
+- I play Shooting Guard at the Men's Basketball Team of SCSE
