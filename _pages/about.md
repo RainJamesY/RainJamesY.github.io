@@ -95,7 +95,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 ## 🥁 Music Band and Symphony Orchestra
 
-I have been practicing and performing the percussion instruments  for over 16 years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the snare drum, timpani, bass drum, drum kit, cymbals, triangle, xylophone, marimba, glockenspiel, tambourine, gong, vibraphone, and chimes.
+I have been practicing and performing the percussion instruments  for over 16 years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the Snare drum, Timpani, Bass drum, Drum kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, etc.
 
 Here are some selected recordings of my performances:
 
