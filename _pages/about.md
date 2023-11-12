@@ -95,6 +95,10 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 ## 🥁 Music Band and Symphony Orchestra
 
+I have been practicing and performing the percussion instruments  for over 16 years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the snare drum, timpani, bass drum, drum kit, cymbals, triangle, xylophone, marimba, glockenspiel, tambourine, gong, vibraphone, and chimes.
+
+Here are some selected recordings of my performances:
+
 - *2023.05*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
