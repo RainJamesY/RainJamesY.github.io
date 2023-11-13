@@ -104,7 +104,7 @@ Here are some selected recordings of my performances:
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
 - *2021.12*: [Top-10 Instrumentalists Contest](https://www.bilibili.com/video/BV1R3411476T/) at Wuhan University
 - *2021.09*: My **Favorite** [Solo & Improvisation Drum Performance](https://www.bilibili.com/video/BV1aQ4y167AX/) at Wuhan University
-- *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Qintai Concert Hall, Wuhan
+- *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at [Qintai Concert Hall](https://qtconcerthall.polyt.cn/#/), Wuhan
 
 ## 🏀 Basketball Team
 
