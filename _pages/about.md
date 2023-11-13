@@ -31,7 +31,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 🔥 News
 
-- *2023.10*: I won the National Scholarship (0.2% national-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
+- *2023.10*: I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 - *2023.10:* I ranked 1/144 in the annual comprehensive assessment (the only participant with a 90+ overall score).
 - *2023.08:* One paper is accepted by ICCVW UnCV 2023.
 - *2023.05:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
