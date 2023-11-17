@@ -89,13 +89,13 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 ## Teaching Experiences
 
-- Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. [[Lecture Slides](..\slides\Introduction_to_DeepLearning.pdf) ] [ [Exam Paper](..\slides\AIFinalExam-Fall2022.pdf) ]
+- Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. [[Lecture Slides](..\slides\Introduction_to_DeepLearning.pdf)] [[Exam Paper](..\slides\AIFinalExam-Fall2022.pdf)]
 
-- Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023. [ [Lecture Slides](..\slides\Nasty_teacher.pdf) ]
+- Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023. [[Lecture Slides](..\slides\Nasty_teacher.pdf)]
 
 ## Invited Talks
 
-- How to prepare for TOEFL listening and speaking, spring 2023. [ [Lecture slides](..\slides\托福听力口语分享.pdf) ]
+- How to prepare for TOEFL listening and speaking, spring 2023. [[Lecture slides](..\slides\托福听力口语分享.pdf)]
 
 # 🍲 Misc
 
