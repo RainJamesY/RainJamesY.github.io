@@ -19,15 +19,16 @@ redirect_from:
 # 😊 About Me
 
 Greetings!
-I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interests broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), and Artificial Intelligence Security & Privacy.
+I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interests focus on "AI for good use", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and Artificial Intelligence Security & Privacy.
 
 # 🔬 Research Interest
 
 - Machine learning and Computer Vision
   - Domain Adaptation/Transfer learning
   - Semi-supervised Learning
-- Artificial Intelligence Security & Privacy
-  - Security in Large Language Models (Natural Language Processing)
+- Natural Language Processing
+  - Trustworthy Large Language Models (security and fairness in LLMs)
+
 
 # 🔥 News
 
@@ -95,7 +96,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 ## Invited Talks
 
-- How to prepare for TOEFL listening and speaking, spring 2023. [[Lecture slides](..\slides\托福听力口语分享.pdf)]
+- How to prepare for TOEFL listening and speaking, Spring 2023. [[Lecture slides](..\slides\托福听力口语分享.pdf)]
 
 # 🍲 Misc
 
