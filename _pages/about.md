@@ -100,7 +100,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 ## Invited Talks
 
-- How to prepare for TOEFL listening and speaking, Spring 2023. [[Lecture slides](..\slides\托福听力口语分享.pdf)]
+- How to prepare for TOEFL listening and speaking, Spring 2023. [[Lecture Slides](..\slides\托福听力口语分享.pdf)]
 
 # 🍲 Misc
 
