@@ -29,8 +29,9 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 - Natural Language Processing
   - Trustworthy Large Language Models (security and fairness in LLMs)
 
-
 # 🔥 News
+
+- *2023.12*: One paper is accepted by ICASSP 2024.
 
 - *2023.10*: I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 - *2023.10:* I ranked 1/144 in the annual comprehensive assessment (the only participant with a 90+ overall score).
@@ -48,12 +49,15 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
   [*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*](https://uncv2023.github.io/papers/)
 
-  ## 🖨️In submission & Preprint
 - [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)
 
   **Dongyu Yao**, Jianshu Zhang, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
-  A preprint version
+  [*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php)
+
+
+
+## <!-- 🖨️In submission & Preprint-->
 
 # 🏅 Honors and Awards
 
