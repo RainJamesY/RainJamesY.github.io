@@ -110,6 +110,8 @@ I have been practicing and performing the percussion instruments  for over 16 ye
 
 Here are some selected recordings of my performances:
 
+- *2023.12*: [New Year's Eve celebration (Most songs played in a single performance)](https://www.bilibili.com/video/BV1Hi4y1r7f5/) at SCSE, Wuhan University
+
 - *2023.05*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
