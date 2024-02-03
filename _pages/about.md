@@ -31,6 +31,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 🔥 News
 
+- *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
+
 - *2023.12*: One paper is accepted by ICASSP 2024.
 
 - *2023.10*: I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
