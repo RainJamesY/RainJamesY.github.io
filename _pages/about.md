@@ -19,7 +19,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings!
-I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at No.1 Middle School Affiliated to CCNU. My research interests focus on "AI for good use", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and AI Security.
+I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn/Default.aspx). My research interests focus on "AI for good use", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and AI Security. My CV is available [here](..\docs\Resume_For_Work_Dongyu_Yao.pdf).
 
 # 🔬 Research Interest
 
@@ -30,6 +30,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
   - Trustworthy Large Language Models (security and fairness in LLMs)
 
 # 🔥 News
+
+- *2024.03*: Admitted to Master of Science in Computer Vision (MSCV) program at Carnegie Mellon University!!!
 
 - *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
 
@@ -83,8 +85,10 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 💻 Internships
 
+- *2024.04 - present*, Machine Learning Engineer Intern at [ByteDance](https://www.bytedance.com/)
+
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
-- *2022.07 - Present*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
+- *2022.07 - 2023.12*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
   hub.io)
 - *2022.03 - 2022.11,* Student Research Assistant at NIS&P lab, supervised by Prof. [Qian Wang](http://nisplab.whu.edu.cn/people.html)
 
@@ -106,20 +110,23 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 🍲 Misc
 
-## 🥁 Music Band and Symphony Orchestra
+## 🥁 Music Band & Symphony Orchestra
 
 I have been practicing and performing the percussion instruments  for over 16 years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the Snare drum, Timpani, Bass drum, Drum kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, etc.
 
 Here are some selected recordings of my performances:
 
 - *2023.12*: [New Year's Eve celebration (Most songs played in a single performance)](https://www.bilibili.com/video/BV1Hi4y1r7f5/) at SCSE, Wuhan University
-
 - *2023.05*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
 - *2021.12*: [Top-10 Instrumentalists Contest](https://www.bilibili.com/video/BV1R3411476T/) at Wuhan University
 - *2021.09*: My **Favorite** [Solo & Improvisation Drum Performance](https://www.bilibili.com/video/BV1aQ4y167AX/) at Wuhan University
 - *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at [Qintai Concert Hall](https://qtconcerthall.polyt.cn/#/), Wuhan
+
+## <!--🎤 Voice & Eloquence -->
+
+<!--I developed a strong passion for delivering English speeches during my junior school years, after winning several championships in English speaking contests.-->
 
 ## 🏀 Basketball Team
 
