@@ -31,7 +31,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 🔥 News
 
-- *2024.03*: Admitted to Master of Science in Computer Vision (MSCV) program at Carnegie Mellon University!!!
+- *2024.03*: Admitted to the Master of Science in Computer Vision (MSCV) program at Carnegie Mellon University!!!
 
 - *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
 
