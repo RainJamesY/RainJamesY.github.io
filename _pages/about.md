@@ -19,7 +19,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings!
-I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn/Default.aspx). My research interests focus on "AI for good use", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and AI Security. My CV is available [here](..\document\CV_Dongyu_Yao.pdf).
+I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn). My research interests focus on "AI for good use", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and AI Security. My CV is available [here](..\document\CV_Dongyu_Yao.pdf).
 
 # 🔬 Research Interest
 
@@ -80,7 +80,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 # 📖 Educations
 
 - *2020.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. Major in Cyberspace Security.
-- *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn/Default.aspx), China.
+- *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn), China.
 - *2014.09 - 2017.06*, Junior High, Hubei Jingmen Foreign Language School, China.
 
 # 💻 Internships
