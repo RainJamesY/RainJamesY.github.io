@@ -85,7 +85,7 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 💻 Internships
 
-- *2024.04 - present*, Machine Learning Engineer Intern at [ByteDance](https://www.bytedance.com/)
+- *2024.04 - present*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
 
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2022.07 - 2023.12*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
