@@ -33,7 +33,7 @@ My research interests focus on "**AI for good use**", broadly lie in Machine Lea
 
 # 🔥 News
 
-- *2024.03*: One paper is accepted by CogSci 2024 as **Oral Presentation** 
+- *2024.04*: One paper is accepted by CogSci 2024 as **Oral Presentation** 
 
 - *2024.03*: Admitted to the Master of Science in Computer Vision (MSCV) program at Carnegie Mellon University!!!
 
