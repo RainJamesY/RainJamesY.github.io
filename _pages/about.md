@@ -19,9 +19,11 @@ redirect_from:
 # 😊 About Me
 
 Greetings!
-I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn). My research interests focus on "AI for good use", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and AI Security. My CV is available [here](..\document\CV_Dongyu_Yao.pdf).
+I'm Dongyu Yao (姚栋宇), an incoming [Master's student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at Carnegie Mellon University and currently a senior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn). My CV is available [here](..\document\CV_Dongyu_Yao.pdf).
 
 # 🔬 Research Interest
+
+My research interests focus on "**AI for good use**", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and Generative AI.
 
 - Machine learning and Computer Vision
   - Domain Adaptation/Transfer learning
@@ -134,9 +136,11 @@ Here are some selected recordings of my performances:
 - *2021.09*: My **Favorite** [Solo & Improvisation Drum Performance](https://www.bilibili.com/video/BV1aQ4y167AX/) at Wuhan University
 - *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at [Qintai Concert Hall](https://qtconcerthall.polyt.cn/#/), Wuhan
 
-## <!--🎤 Voice & Eloquence -->
+## 🎤 Voice & Eloquence
 
-<!--I developed a strong passion for delivering English speeches during my junior school years, after winning several championships in English speaking contests.-->
+- I developed a strong passion for delivering English speeches during my junior school years, after winning several championships in English speaking contests.
+- My favorite speech is Lincoln's Gettysburg Address.
+- My TOEFL single best score is 112 with **28** for speaking, thanks to my day-to-day oral practice. I also scored 330 (v162 + q168 + w4.0) in GRE.
 
 ## 🏀 Basketball Team
 
