@@ -28,9 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : 
-  - "dongyu.yao@whu.edu.cn"
-  - "raindy@cmu.edu"
+  email            : "raindy@cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
