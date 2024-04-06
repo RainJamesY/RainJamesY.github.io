@@ -31,6 +31,8 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 # 🔥 News
 
+- *2024.03*: One paper is accepted by CogSci 2024 as **Oral Presentation** 
+
 - *2024.03*: Admitted to the Master of Science in Computer Vision (MSCV) program at Carnegie Mellon University!!!
 
 - *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
@@ -47,9 +49,15 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
+- [CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay](https://arxiv.org/abs/2402.01348) [[arXiv]](https://arxiv.org/abs/2402.01348)
+
+  Jianshu Zhang<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, **Dongyu Yao**, Kun He<sup>*</sup>
+
+  *[Cognitive Science Society Annual Conference (CogSci), 2024](https://cognitivesciencesociety.org/cogsci-2024/)* (Oral)
+
 - [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://ieeexplore.ieee.org/document/10448041) [[arXiv]](https://arxiv.org/abs/2309.05274) [[Code]](https://github.com/RainJamesY/FuzzLLM)
 
-  **Dongyu Yao**, Jianshu Zhang, Ian G. Harris<sup>*</sup> , Marcel Carlsson
+  **Dongyu Yao<sup>&dagger;</sup>**, Jianshu Zhang<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
   [*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php)
 
@@ -59,7 +67,9 @@ I'm Dongyu Yao (姚栋宇), a senior undergraduate student at the [School of Cyb
 
   [*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*](https://uncv2023.github.io/papers/)
 
-2 more papers have been submitted to Top-tier conferences.
+Sorted by date of acceptance.
+
+<!-- 2 more papers have been submitted to Top-tier conferences. -->
 
 ## <!-- 🖨️In submission & Preprint-->
 
