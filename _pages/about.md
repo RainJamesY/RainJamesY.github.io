@@ -23,7 +23,7 @@ I'm Dongyu (Rain) Yao (姚栋宇), a [Master's student in Computer Vision (**MSC
 
 # 🔬 Research Interest
 
-My research interests focus on "**AI for good use**", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and Generative AI.
+My research interests focus on "**AI for good use**", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and Generative AI (LLMs and MLLMs).
 
 - Machine learning and Computer Vision
   - Domain Adaptation/Transfer learning
@@ -39,14 +39,14 @@ My research interests focus on "**AI for good use**", broadly lie in Machine Lea
 
 - *2024.04*: One paper is accepted by CogSci 2024 as **Oral Presentation**. 
 
-- *2024.03*: Admitted to the Master of Science in Computer Vision (MSCV) program at Carnegie Mellon University!!!
+- *2024.03*: Admitted to the Master of Science in Computer Vision (**MSCV**) program at Carnegie Mellon University!!!
 
 - *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
 
 - *2023.12*: One paper is accepted by ICASSP 2024.
 
 - *2023.10*: I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
-- *2023.10:* I ranked 1/144 in the annual comprehensive assessment (the only participant with a 90+ overall score).
+- *2023.10:* I ranked **1/144** in the annual comprehensive assessment (the only participant with a 90+ overall score).
 - *2023.08:* One paper is accepted by ICCVW UnCV 2023.
 - *2023.05:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU.
@@ -81,7 +81,7 @@ Sorted by date of acceptance.
 
 # 🏅 Honors and Awards
 
-- *2024.05* **Outstanding Graduate** (Award Rate: 738/6936=10%) *Wuhan University*
+- *2024.05* **Outstanding Graduate** (Award Rate: 10%) *Wuhan University*
 
 - *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
 
@@ -101,11 +101,10 @@ Sorted by date of acceptance.
 
 - *2020.09 - 2024.06*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. B.E. in Cyberspace Security.
 - *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn), China.
-- *2014.09 - 2017.06*, Junior High, Hubei Jingmen Foreign Language School, China.
 
 # 💻 Internships
 
-- *2024.04 - 2024.7*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
+- *2024.04 - 2024.07*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
 
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2022.07 - 2023.12*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
@@ -152,4 +151,4 @@ Here are some selected recordings of my performances:
 
 ## 🏀 Basketball Team
 
-- I play Shooting Guard at the Men's Basketball Team of SCSE
+- I played Shooting Guard at the Men's Basketball Team of SCSE during my undergrad years
