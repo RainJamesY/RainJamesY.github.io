@@ -97,7 +97,7 @@ Sorted by date of acceptance.
 
 # 📖 Educations
 
-- *2024.08 - 2025.12 (expected)*, [Master's student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/), [Robotics Institute (RI)](https://www.ri.cmu.edu/), [School of Computer Science (SCS)](https://www.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/), U.S.
+- *2024.08 - 2025.12 (expected)*, [Master's student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/), [Robotics Institute (RI)](https://www.ri.cmu.edu/), [School of Computer Science (SCS)](https://www.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA.
 
 - *2020.09 - 2024.06*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. B.E. in Cyberspace Security.
 - *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn), China.
