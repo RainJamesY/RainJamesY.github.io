@@ -33,6 +33,8 @@ My research interests focus on "**AI for good use**", broadly lie in Machine Lea
 
 # 🔥 News
 
+- *2024.09*: One paper is accepted by NeurIPS 2024.
+
 - *2024.06:* Obtained my Bachelor of Engineering (B.E.) degree in Cyberspace Security.
 
 - *2024.05:* Selected as Outstanding Graduate (Award Rate: 10%).
@@ -54,6 +56,12 @@ My research interests focus on "**AI for good use**", broadly lie in Machine Lea
 # 📝 Publications
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
+
+- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://rainjamesy.github.io/) [[arXiv]](https://arxiv.org/abs/2401.15668)
+
+  Weifeng Liu, Tianyi She, Jiawei Liu, Boheng Li, **Dongyu Yao**, Ziyou Liang, Run Wang
+
+  *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
 - [CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay](https://arxiv.org/abs/2402.01348) [[arXiv]](https://arxiv.org/abs/2402.01348)
 
@@ -81,7 +89,7 @@ Sorted by date of acceptance.
 
 # 🏅 Honors and Awards
 
-- *2024.05* **Outstanding Graduate** (Award Rate: 10%) *Wuhan University*
+- *2024.06* **Outstanding Graduate** (Award Rate: 10%) *Wuhan University*
 
 - *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
 
