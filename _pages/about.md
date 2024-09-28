@@ -61,7 +61,7 @@ My research interests focus on "**AI for good use**", broadly lie in Machine Lea
 
   Weifeng Liu, Tianyi She, Jiawei Liu, Boheng Li, **Dongyu Yao**, Ziyou Liang, Run Wang
 
-  *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+  [*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*](https://neurips.cc/Conferences/2024)
 
 - [CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay](https://arxiv.org/abs/2402.01348) [[arXiv]](https://arxiv.org/abs/2402.01348)
 
