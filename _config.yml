@@ -27,7 +27,7 @@ author:
   location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=_TOxPGYAAAAJ" # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "raindy@cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rain-dongyu-yao/"
+  linkedin         : "dongyu-rain-yao/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # "https://orcid.org/0009-0001-6022-5696" # e.g., "https://orcid.org/xxxx"
   pinterest        :
