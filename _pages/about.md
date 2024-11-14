@@ -47,7 +47,7 @@ My research interests focus on **Data-centric AI** and **Trustworthy (Multi-moda
 
 # 📝 Publications
 
-`<sup>`&dagger;`</sup>` : equal contribution, `<sup>`*`</sup>` : corresponding author
+<sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
 - [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://rainjamesy.github.io/) [[arXiv]](https://arxiv.org/abs/2401.15668)
 
@@ -56,17 +56,17 @@ My research interests focus on **Data-centric AI** and **Trustworthy (Multi-moda
   [*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*](https://neurips.cc/Conferences/2024)
 - [CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay](https://arxiv.org/abs/2402.01348) [[arXiv]](https://arxiv.org/abs/2402.01348)
 
-  Jianshu Zhang`<sup>`&dagger;`</sup>`, Yankai Fu`<sup>`&dagger;`</sup>`, Ziheng Peng`<sup>`&dagger;`</sup>`, **Dongyu Yao**, Kun He`<sup>`*`</sup>`
+  Jianshu Zhang<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, **Dongyu Yao**, Kun He<sup>*</sup>
 
   *[Cognitive Science Society Annual Conference (CogSci), 2024](https://cognitivesciencesociety.org/cogsci-2024/)* (Oral)
 - [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://ieeexplore.ieee.org/document/10448041) [[arXiv]](https://arxiv.org/abs/2309.05274) [[Code]](https://github.com/RainJamesY/FuzzLLM)
 
-  **Dongyu Yao`<sup>`&dagger;`</sup>`**, Jianshu Zhang`<sup>`&dagger;`</sup>`, Ian G. Harris`<sup>`*`</sup>` , Marcel Carlsson
+  **Dongyu Yao<sup>&dagger;</sup>**, Jianshu Zhang<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
   [*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php)
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/html/Yao_Dual-Level_Interaction_for_Domain_Adaptive_Semantic_Segmentation_ICCVW_2023_paper.html) [[arXiv]](https://arxiv.org/abs/2307.07972) [[Code]](https://github.com/RainJamesY/DIDA)
 
-  **Dongyu Yao**, Boheng Li`<sup>`*`</sup>`
+  **Dongyu Yao**, Boheng Li<sup>*</sup>
 
   [*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*](https://uncv2023.github.io/papers/)
 
@@ -74,7 +74,7 @@ Sorted by date of acceptance.
 
 <!-- 2 more papers have been submitted to Top-tier conferences. -->
 
-## `<!-- 🖨️In submission & Preprint-->`
+## <!-- 🖨️In submission & Preprint-->
 
 # 🏅 Honors and Awards
 
