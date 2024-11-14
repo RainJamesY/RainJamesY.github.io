@@ -19,34 +19,26 @@ redirect_from:
 # 😊 About Me
 
 Greetings!
-I'm Dongyu (Rain) Yao (姚栋宇), a [Master's student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at Carnegie Mellon University. I obtained my Bachelor of Engineering (B.E.) degree at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn).
+I'm Dongyu (Rain) Yao (姚栋宇), a [Master&#39;s student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at Carnegie Mellon University. I obtained my Bachelor of Engineering (B.E.) degree at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn).
 
 # 🔬 Research Interest
 
-My research interests focus on "**AI for good use**", broadly lie in Machine Learning, Computer Vision (data-efficient scene understanding), Natural Language Processing, and Generative AI (LLMs and MLLMs).
+My research interests focus on **Data-centric AI** and **Trustworthy (Multi-modal) AI**, encompassing key areas in **Computer Vision** (data-efficient scene understanding), **Natural Language Processing**, and **Generative Models** (LLMs and MLLMs).
 
 - Machine learning and Computer Vision
-  - Domain Adaptation/Transfer learning
-  - Semi-supervised Learning
+    - Domain Adaptation and Transfer Learning
 - Natural Language Processing
-  - Trustworthy Large Language Models (security and fairness in LLMs)
+    - Trustworthy Large Language Models
 
 # 🔥 News
 
 - *2024.09*: One paper is accepted by NeurIPS 2024.
-
 - *2024.06:* Obtained my Bachelor of Engineering (B.E.) degree in Cyberspace Security.
-
 - *2024.05:* Selected as Outstanding Graduate (Award Rate: 10%).
-
-- *2024.04*: One paper is accepted by CogSci 2024 as **Oral Presentation**. 
-
+- *2024.04*: One paper is accepted by CogSci 2024 as **Oral Presentation**.
 - *2024.03*: Admitted to the Master of Science in Computer Vision (**MSCV**) program at Carnegie Mellon University!!!
-
 - *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
-
 - *2023.12*: One paper is accepted by ICASSP 2024.
-
 - *2023.10*: I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 - *2023.10:* I ranked **1/144** in the annual comprehensive assessment (the only participant with a 90+ overall score).
 - *2023.08:* One paper is accepted by ICCVW UnCV 2023.
@@ -55,29 +47,26 @@ My research interests focus on "**AI for good use**", broadly lie in Machine Lea
 
 # 📝 Publications
 
-<sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
+`<sup>`&dagger;`</sup>` : equal contribution, `<sup>`*`</sup>` : corresponding author
 
 - [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://rainjamesy.github.io/) [[arXiv]](https://arxiv.org/abs/2401.15668)
 
   Weifeng Liu, Tianyi She, Jiawei Liu, Boheng Li, **Dongyu Yao**, Ziyou Liang, Run Wang
 
   [*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*](https://neurips.cc/Conferences/2024)
-
 - [CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay](https://arxiv.org/abs/2402.01348) [[arXiv]](https://arxiv.org/abs/2402.01348)
 
-  Jianshu Zhang<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, **Dongyu Yao**, Kun He<sup>*</sup>
+  Jianshu Zhang`<sup>`&dagger;`</sup>`, Yankai Fu`<sup>`&dagger;`</sup>`, Ziheng Peng`<sup>`&dagger;`</sup>`, **Dongyu Yao**, Kun He`<sup>`*`</sup>`
 
   *[Cognitive Science Society Annual Conference (CogSci), 2024](https://cognitivesciencesociety.org/cogsci-2024/)* (Oral)
-
 - [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://ieeexplore.ieee.org/document/10448041) [[arXiv]](https://arxiv.org/abs/2309.05274) [[Code]](https://github.com/RainJamesY/FuzzLLM)
 
-  **Dongyu Yao<sup>&dagger;</sup>**, Jianshu Zhang<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
+  **Dongyu Yao`<sup>`&dagger;`</sup>`**, Jianshu Zhang`<sup>`&dagger;`</sup>`, Ian G. Harris`<sup>`*`</sup>` , Marcel Carlsson
 
   [*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php)
-
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/html/Yao_Dual-Level_Interaction_for_Domain_Adaptive_Semantic_Segmentation_ICCVW_2023_paper.html) [[arXiv]](https://arxiv.org/abs/2307.07972) [[Code]](https://github.com/RainJamesY/DIDA)
 
-  **Dongyu Yao**, Boheng Li<sup>*</sup>
+  **Dongyu Yao**, Boheng Li`<sup>`*`</sup>`
 
   [*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*](https://uncv2023.github.io/papers/)
 
@@ -85,14 +74,12 @@ Sorted by date of acceptance.
 
 <!-- 2 more papers have been submitted to Top-tier conferences. -->
 
-## <!-- 🖨️In submission & Preprint-->
+## `<!-- 🖨️In submission & Preprint-->`
 
 # 🏅 Honors and Awards
 
 - *2024.06* **Outstanding Graduate** (Award Rate: 10%) *Wuhan University*
-
 - *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
-
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
 - *2023.08* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nation-wide)
@@ -105,15 +92,13 @@ Sorted by date of acceptance.
 
 # 📖 Educations
 
-- *2024.08 - 2025.12 (expected)*, [Master's student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/), [Robotics Institute (RI)](https://www.ri.cmu.edu/), [School of Computer Science (SCS)](https://www.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA.
-
+- *2024.08 - 2025.12 (expected)*, [Master&#39;s student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/), [Robotics Institute (RI)](https://www.ri.cmu.edu/), [School of Computer Science (SCS)](https://www.cs.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA.
 - *2020.09 - 2024.06*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. B.E. in Cyberspace Security.
 - *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn), China.
 
 # 💻 Internships
 
 - *2024.04 - 2024.07*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
-
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2022.07 - 2023.12*, Student Research Assistant at Key Laboratory of Aerospace Information Security and Trusted Computing, Supervised by Prof. [Run Wang](http://wangrun.git
   hub.io)
@@ -128,7 +113,6 @@ Sorted by date of acceptance.
 ## Teaching Experiences
 
 - Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023. [[Lecture Slides](..\slides\Nasty_teacher.pdf)] [[Lecture Slides](..\slides\FuzzLLM.pdf)]
-
 - Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. [[Lecture Slides](..\slides\Introduction_to_DeepLearning.pdf)] [[Exam Paper](..\slides\AIFinalExam-Fall2022.pdf)]
 
 ## Invited Talks
@@ -143,12 +127,12 @@ I have been practicing and performing the percussion instruments  for 17+ years 
 
 Here are some selected recordings of my performances:
 
-- *2023.12*: [New Year's Eve celebration (Most songs played in a single performance)](https://www.bilibili.com/video/BV1Hi4y1r7f5/) at SCSE, Wuhan University
+- *2023.12*: [New Year&#39;s Eve celebration (Most songs played in a single performance)](https://www.bilibili.com/video/BV1Hi4y1r7f5/) at SCSE, Wuhan University
 - *2023.05*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
 - *2021.12*: [Top-10 Instrumentalists Contest](https://www.bilibili.com/video/BV1R3411476T/) at Wuhan University
-- *2021.09*: My **Favorite** [Solo & Improvisation Drum Performance](https://www.bilibili.com/video/BV1aQ4y167AX/) at Wuhan University
+- *2021.09*: My **Favorite** [Solo &amp; Improvisation Drum Performance](https://www.bilibili.com/video/BV1aQ4y167AX/) at Wuhan University
 - *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at [Qintai Concert Hall](https://qtconcerthall.polyt.cn/#/), Wuhan
 
 ## 🎤 Voice & Eloquence
