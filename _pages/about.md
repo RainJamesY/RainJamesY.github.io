@@ -106,7 +106,18 @@ Sorted by date of acceptance.
 
 # 🎢 Activities
 
-## Services
+## **Academic Services**
+
+**Conference Reviewer:**
+
+- IEEE Symposium on Computers & Informatics (ISCI), 2025
+- IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), 2025
+
+**Journal Reviewer:**
+
+- Applied Intelligence Journal, Springer Nature
+
+## University Services
 
 - *2020.09 - 2023.09*, Chief Percussionist at Wuhan University Symphony Orchestra
 
