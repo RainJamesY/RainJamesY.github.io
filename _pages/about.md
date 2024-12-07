@@ -106,7 +106,18 @@ Sorted by date of acceptance.
 
 # 🎢 Activities
 
-## Services
+## **Academic Services**
+
+**Conference Reviewer:**
+
+- IEEE Symposium on Computers & Informatics (ISCI), 2025
+- IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), 2025
+
+**Journal Reviewer:**
+
+- Applied Intelligence Journal, Springer Nature
+
+## University Services
 
 - *2020.09 - 2023.09*, Chief Percussionist at Wuhan University Symphony Orchestra
 
@@ -123,7 +134,7 @@ Sorted by date of acceptance.
 
 ## 🥁 Music Band & Symphony Orchestra
 
-I have been practicing and performing the percussion instruments  for 17+ years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the Snare drum, Timpani, Bass drum, Drum kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, etc.
+I have been practicing and performing the percussion instruments  for 18+ years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the Snare drum, Timpani, Bass drum, Drum kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, etc.
 
 Here are some selected recordings of my performances:
 
