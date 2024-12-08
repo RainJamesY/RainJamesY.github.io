@@ -23,7 +23,7 @@ I'm Dongyu (Rain) Yao (姚栋宇), a [Master&#39;s student in Computer Vision (*
 
 # 🔬 Research Interest
 
-My research interests focus on **Data-centric AI** and **Trustworthy (Multi-modal) AI**, encompassing key areas in **Computer Vision** (data-efficient scene understanding), **Natural Language Processing**, and **Generative Models** (LLMs and MLLMs). Recently, I'm exploring **Multimodal Reasoning**, especially temporal reasoning and understanding for Video-LLMs.
+My research interests focus on **Data-centric AI** and **Trustworthy (Multi-modal) AI**, encompassing key areas in **Computer Vision** (data-efficient scene understanding), **Natural Language Processing**, and **Generative Models** (LLMs and MLLMs). Recently, I'm exploring **Multi-modal Reasoning**, especially temporal reasoning and understanding for Video-LLMs.
 
 - Machine learning and Computer Vision
     - Domain Adaptation and Transfer Learning
