@@ -116,6 +116,7 @@ Sorted by date of acceptance.
 **Journal Reviewer:**
 
 - Applied Intelligence Journal, Springer Nature
+- ACM Transactions on Intelligent Systems and Technology (TIST)
 
 ## University Services
 
