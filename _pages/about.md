@@ -116,8 +116,11 @@ Sorted by date of acceptance.
 
 **Journal Reviewer:**
 
-- Applied Intelligence Journal, Springer Nature
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
 - ACM Transactions on Intelligent Systems and Technology (TIST)
+
+- Applied Intelligence Journal, Springer Nature
 
 ## University Services
 
