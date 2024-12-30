@@ -113,6 +113,7 @@ Sorted by date of acceptance.
 - AAAI Workshop on Preventing and Detecting LLM Misinformation (PDLM), 2025
 
 - AAAI Workshop on Multi-Agent AI in the Real World (MARW), 2025
+- 15th IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), 2025
 
 **Journal Reviewer:**
 
