@@ -18,17 +18,12 @@ redirect_from:
 
 # 😊 About Me
 
-Greetings!
+👋Greetings!
 I'm Dongyu (Rain) Yao (姚栋宇), a [Master&#39;s student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at Carnegie Mellon University. I obtained my Bachelor of Engineering (B.E.) degree at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn).
 
 # 🔬 Research Interest
 
-My research interests focus on **Data-centric AI** and **Trustworthy (Multi-modal) AI**, encompassing key areas in **Computer Vision** (data-efficient scene understanding), **Natural Language Processing**, and **Generative Models** (LLMs and MLLMs). Recently, I'm exploring **Multi-modal Reasoning**, especially temporal reasoning and understanding for Video-LLMs.
-
-- Machine learning and Computer Vision
-    - Domain Adaptation and Transfer Learning
-- Natural Language Processing
-    - Trustworthy Large Language Models
+My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal) **AI**, encompassing key areas in **Computer Vision** (data-efficient scene understanding), **Natural Language Processing**, and **Generative AI** (LLMs and MLLMs). Recently, I'm exploring **Multi-modal Reasoning and Alignment**, especially evaluation and de-hallucination for **Vision-language Models** with multi-image and video understanding capabilities.
 
 # 🔥 News
 
@@ -42,14 +37,19 @@ My research interests focus on **Data-centric AI** and **Trustworthy (Multi-moda
 - *2023.10*: I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 - *2023.10:* I ranked **1/144** in the annual comprehensive assessment (the only participant with a 90+ overall score).
 - *2023.08:* One paper is accepted by ICCVW UnCV 2023.
+
+<!--
+
 - *2023.05:* Two of our projects won the First Prize in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3%).
 - *2022.10*: I won the Second Class Scholarship and was graded as Merit Student (both 10% school-wide) of WHU.
+
+-->
 
 # 📝 Publications
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
-- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://rainjamesy.github.io/) [[arXiv]](https://arxiv.org/abs/2401.15668)
+- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/file/a5a5b0ff87c59172a13342d428b1e033-Paper-Conference.pdf) [[arXiv]](https://arxiv.org/abs/2401.15668)[[Code]](https://github.com/AaronComo/LipFD)
 
   Weifeng Liu, Tianyi She, Jiawei Liu, Boheng Li, **Dongyu Yao**, Ziyou Liang, Run Wang
 
@@ -83,12 +83,17 @@ Sorted by date of acceptance.
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
 - *2023.08* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nation-wide)
+
+<!-- 
+
 - *2023.05* **First Prize*2** in the 16th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
 - *2021.12* **First Prize** in Top-10 Instrumentalists Contest. (Award Rate: 1% school-wide) *Wuhan University*
 - *2021.07* **Second Prize** in the 6th National University Student Art Festival (Award Rate: 15% nation-wide) *Ministry of Education, China*
 - *2021.07* **First Prize** in the 7th Provincial University Student Art Festival (Award Rate: 5% Province-wide) *Ministry of Education, Hubei Province*
+
+-->
 
 # 📖 Educations
 
@@ -110,9 +115,9 @@ Sorted by date of acceptance.
 
 **Conference Reviewer:**
 
-- AAAI Workshop on Preventing and Detecting LLM Misinformation (PDLM), 2025
+- ICLR Workshops ([WMARK](https://sites.google.com/view/genai-watermark/home) and [FM-Wild](https://fm-wild-community.github.io/)), 2025
+- AAAI Workshops ([PDLM](https://aaai2025-llm-misinformation.github.io/) and [MARW](https://sites.google.com/view/marw-ai-agents)), 2025
 
-- AAAI Workshop on Multi-Agent AI in the Real World (MARW), 2025
 - 15th IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), 2025
 
 **Journal Reviewer:**
@@ -153,6 +158,8 @@ Here are some selected recordings of my performances:
 - *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at [Qintai Concert Hall](https://qtconcerthall.polyt.cn/#/), Wuhan
 
 ## 🎤 Voice & Eloquence
+
+- I'm recently in love with **Hamilton** (the broadway muscial), I can rap at least 5 songs in the play.
 
 - I developed a strong passion for delivering English speeches during my junior school years, after winning several championships in English speaking contests.
 - My favorite speech is Lincoln's Gettysburg Address.
