@@ -49,6 +49,10 @@ My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
+- [VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues](https://arxiv.org/abs/2502.12084) [[arXiv]](https://arxiv.org/abs/2502.12084) [[Code]](https://github.com/vlm2-bench/VLM2-Bench)
+
+    **Dongyu Yao<sup>&dagger;</sup>**, Jianshu Zhang<sup>&dagger;</sup>, Renjie Pi, Paul Pu Liang, Yi R. (May) Fung
+
 - [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/file/a5a5b0ff87c59172a13342d428b1e033-Paper-Conference.pdf) [[arXiv]](https://arxiv.org/abs/2401.15668)[[Code]](https://github.com/AaronComo/LipFD)
 
   Weifeng Liu, Tianyi She, Jiawei Liu, Boheng Li, **Dongyu Yao**, Ziyou Liang, Run Wang
@@ -102,6 +106,8 @@ Sorted by date of acceptance.
 - *2017.09 - 2020.06*, Senior High (Distinguished High School Graduate), [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn), China.
 
 # 💻 Internships
+
+- *2024.11 - now,* Research Assistant in [MIT](https://www.mit.edu/) and [HKUST](https://hkust.edu.hk/), under the supervision of Prof. [Paul Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://mayrfung.github.io/) (Now Assistant Professor at HKUST).
 
 - *2024.04 - 2024.07*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
