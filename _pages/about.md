@@ -107,9 +107,9 @@ Sorted by date of acceptance.
 
 # 💻 Internships
 
-- *2025.01 - now*, Research Assistant at CMU, under the supervision of Prof. [Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/) and Dr. [Yaqi Xie](https://yaqi-xie.me/).
+- *2025.01 - now*, Research Assistant at [CMU](https://www.cmu.edu/), under the supervision of Prof. [Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/) and Dr. [Yaqi Xie](https://yaqi-xie.me/).
 
-- *2024.11 - now*, Research Assistant at [MIT](https://www.mit.edu/) and [HKUST](https://hkust.edu.hk/), under the supervision of Prof. [Paul Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://mayrfung.github.io/) (Now Assistant Professor at HKUST).
+- *2024.11 - now*, Research Assistant at [MIT](https://www.mit.edu/) and [HKUST](https://hkust.edu.hk/), under the supervision of Prof. [Paul Pu Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://mayrfung.github.io/) (Now Assistant Professor at HKUST).
 
 - *2024.04 - 2024.07*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
