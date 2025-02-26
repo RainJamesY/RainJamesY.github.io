@@ -127,6 +127,7 @@ Sorted by date of acceptance.
 - AAAI Workshops ([PDLM](https://aaai2025-llm-misinformation.github.io/) and [MARW](https://sites.google.com/view/marw-ai-agents)), 2025
 
 - 15th IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), 2025
+- 7th IEEE Symposium on Computers & Informatics (ISCI), 2025 
 
 **Journal Reviewer:**
 
