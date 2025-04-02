@@ -109,7 +109,7 @@ Sorted by date of acceptance.
 
 - *2025.01 - now*, Research Assistant at [CMU](https://www.cmu.edu/), under the supervision of Prof. [Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/) and Dr. [Yaqi Xie](https://yaqi-xie.me/).
 
-- *2024.11 - now*, Research Assistant at [MIT](https://www.mit.edu/) and [HKUST](https://hkust.edu.hk/), under the supervision of Prof. [Paul Pu Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://mayrfung.github.io/) (Now Assistant Professor at HKUST).
+- *2024.11 - 2025.03*, Research Assistant at [MIT](https://www.mit.edu/) and [HKUST](https://hkust.edu.hk/), under the supervision of Prof. [Paul Pu Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://mayrfung.github.io/) (Now Assistant Professor at HKUST).
 
 - *2024.04 - 2024.07*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
@@ -168,7 +168,7 @@ Here are some selected recordings of my performances:
 
 ## 🎤 Voice & Eloquence
 
-- I'm recently in love with **Hamilton** (the broadway muscial), I can rap at least 5 songs in the play.
+- I'm recently in love with **Hamilton** (the broadway muscial), I can rap or sing at least 15 songs in the play.
 
 - I developed a strong passion for delivering English speeches during my junior school years, after winning several championships in English speaking contests.
 - My favorite speech is Lincoln's Gettysburg Address.
