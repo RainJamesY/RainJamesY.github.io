@@ -27,16 +27,18 @@ My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal
 
 # 🔥 News
 
-- *2024.09*: One paper is accepted by NeurIPS 2024.
-- *2024.06:* Obtained my Bachelor of Engineering (B.E.) degree in Cyberspace Security.
-- *2024.05:* Selected as Outstanding Graduate (Award Rate: 10%).
-- *2024.04*: One paper is accepted by CogSci 2024 as **Oral Presentation**.
-- *2024.03*: Admitted to the Master of Science in Computer Vision (**MSCV**) program at Carnegie Mellon University!!!
-- *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
-- *2023.12*: One paper is accepted by ICASSP 2024.
-- *2023.10*: I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
-- *2023.10:* I ranked **1/144** in the annual comprehensive assessment (the only participant with a 90+ overall score).
-- *2023.08:* One paper is accepted by ICCVW UnCV 2023.
+- *2025.04*: ✍️ Invited as a reviewer for NeurIPS 2025.
+
+- *2024.09*: 🎉 One paper is accepted by NeurIPS 2024.
+- *2024.06:* 🎓 Obtained my Bachelor of Engineering (B.E.) degree in Cyberspace Security.
+- *2024.05:* 🎖 Selected as Outstanding Undergraduate (Award Rate: 10%).
+- *2024.04*: 🎉 One paper is accepted by CogSci 2024 as **Oral Presentation**.
+- *2024.03*: 🌟 Admitted to the Master of Science in Computer Vision (**MSCV**) program at Carnegie Mellon University!!!
+- *2024.01*: 📢 Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
+- *2023.12*: 🎉 One paper is accepted by ICASSP 2024.
+- *2023.10*: 🏆 I won the National Scholarship (Award Rate: 0.2% national-wide), First Class Scholarship (Award Rate: 5% school-wide), and was awarded the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
+- *2023.10:* 🏅 I ranked **1/144** in the annual comprehensive assessment (the only participant with a 90+ overall score).
+- *2023.08:* 🎉 One paper is accepted by ICCVW UnCV 2023.
 
 <!--
 
@@ -82,11 +84,11 @@ Sorted by date of acceptance.
 
 # 🏅 Honors and Awards
 
-- *2024.06* **Outstanding Graduate** (Award Rate: 10%) *Wuhan University*
+- *2024.06* **Outstanding Undergraduate** (Award Rate: 10%) *Wuhan University*
 - *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
-- *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
+- *2023.10* **National Scholarship** (Award Rate: 0.2% nationwide) *Ministry of Education, China*
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
-- *2023.08* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nation-wide)
+- *2023.08* **National Second Prize** in the 16th China Undergraduate Computer Design Competition (Award Rate: 10% nationwide)
 
 <!-- 
 
@@ -168,7 +170,7 @@ Here are some selected recordings of my performances:
 
 ## 🎤 Voice & Eloquence
 
-- I'm recently in love with **Hamilton** (the broadway muscial), I can rap or sing at least 15 songs in the play.
+- I'm recently in love with **Hamilton** (the Broadway musical), I can rap or sing at least 15 songs in the play.
 
 - I developed a strong passion for delivering English speeches during my junior school years, after winning several championships in English speaking contests.
 - My favorite speech is Lincoln's Gettysburg Address.
