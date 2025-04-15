@@ -131,6 +131,8 @@ Sorted by date of acceptance.
 
 **Conference Reviewer:**
 
+- Annual Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)), 2025.
+
 - ICLR Workshops ([WMARK](https://sites.google.com/view/genai-watermark/home) and [FM-Wild](https://fm-wild-community.github.io/)), 2025
 - AAAI Workshops ([PDLM](https://aaai2025-llm-misinformation.github.io/) and [MARW](https://sites.google.com/view/marw-ai-agents)), 2025
 
