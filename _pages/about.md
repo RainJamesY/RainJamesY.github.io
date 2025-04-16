@@ -22,7 +22,7 @@ redirect_from:
 
 I'm Dongyu (Rain) Yao (姚栋宇), a [Master&#39;s student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at Carnegie Mellon University. I earned my Bachelor of Engineering (B.E.) degree at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/). Before that, I spent three wonderful years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn). 
 
-Outside the lab and work, you’ll probably find me vibing to music or shooting hoops. I’m always down to a chat — feel free to explore and reach out!
+Outside the lab and work, you’ll probably find me vibing to music or shooting hoops. I’m always down to a chat — feel free to reach out!
 
 # 🔬 Research Interest
 
