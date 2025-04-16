@@ -26,7 +26,7 @@ Outside the lab and work, you’ll probably find me vibing to music or shooting 
 
 # 🔬 Research Interest
 
-My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal) **AI**, encompassing key areas in **Computer Vision** (data-efficient scene understanding), **Natural Language Processing**, and **Generative AI** (LLMs and MLLMs). Recently, I've been exploring **Multi-modal Reasoning and Alignment**, especially evaluation and de-hallucination for **Vision-language Models** with multi-image and video understanding capabilities.
+My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal) **AI**, encompassing key areas in **Computer Vision** (data-efficient scene understanding), **Natural Language Processing**, and **Generative AI** (LLMs and MLLMs). Recently, I've been exploring **Multi-modal Reasoning and Alignment**, especially evaluation and de-hallucination for **Large Vision-language Models** with multi-image and video understanding capabilities.
 
 # 🔥 News
 
