@@ -16,10 +16,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😊 About Me
+# 🤘 About Me
 
-👋Greetings!
-I'm Dongyu (Rain) Yao (姚栋宇), a [Master&#39;s student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at Carnegie Mellon University. I obtained my Bachelor of Engineering (B.E.) degree at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn).
+🤜 Yo — 🤛 Wassup!
+I'm Dongyu (Rain) Yao (姚栋宇), a [Master&#39;s student in Computer Vision (**MSCV**)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at Carnegie Mellon University. 
+
+I earned my Bachelor of Engineering (B.E.) degree at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).  
+
+Before that, I spent three wonderful years studying at [No.1 Middle School Affiliated to CCNU (华中师大一附中)](http://www.hzsdyfz.com.cn). 
+
+Outside the lab and work, you’ll probably find me vibing to music or shooting hoops. I’m always down to chat — feel free to explore and reach out
 
 # 🔬 Research Interest
 
@@ -96,7 +102,7 @@ Sorted by date of acceptance.
 - *2022.10* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
 - *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
 - *2021.12* **First Prize** in Top-10 Instrumentalists Contest. (Award Rate: 1% school-wide) *Wuhan University*
-- *2021.07* **Second Prize** in the 6th National University Student Art Festival (Award Rate: 15% nation-wide) *Ministry of Education, China*
+- *2021.07* **Second Prize** in the 6th National University Student Art Festival (Award Rate: 15% nationwide) *Ministry of Education, China*
 - *2021.07* **First Prize** in the 7th Provincial University Student Art Festival (Award Rate: 5% Province-wide) *Ministry of Education, Hubei Province*
 
 -->
@@ -151,6 +157,8 @@ Sorted by date of acceptance.
 
 - *2020.09 - 2023.09*, Chief Percussionist at Wuhan University Symphony Orchestra
 
+<!-- 
+
 ## Teaching Experiences
 
 - Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023. [[Lecture Slides](..\slides\Nasty_teacher.pdf)] [[Lecture Slides](..\slides\FuzzLLM.pdf)]
@@ -160,30 +168,32 @@ Sorted by date of acceptance.
 
 - How to prepare for TOEFL listening and speaking, Spring 2023. [[Lecture Slides](..\slides\托福听力口语分享.pdf)]
 
+-->
+
 # 🍲 Misc
 
 ## 🥁 Music Band & Symphony Orchestra
 
-I have been practicing and performing the percussion instruments  for 18+ years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the Snare drum, Timpani, Bass drum, Drum kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, etc.
+I have been practicing and performing percussion instruments for 18+ years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the Snare drum, Timpani, Bass drum, Drum kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, etc.
 
 Here are some selected recordings of my performances:
 
-- *2023.12*: [New Year&#39;s Eve celebration (Most songs played in a single performance)](https://www.bilibili.com/video/BV1Hi4y1r7f5/) at SCSE, Wuhan University
+- *2023.12*: [New Year's Eve celebration (Most songs played in a single performance)](https://www.bilibili.com/video/BV1Hi4y1r7f5/) at SCSE, Wuhan University
 - *2023.05*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
 - *2022.06*: My first [Livehouse performance](https://www.bilibili.com/video/BV1sv4y1g7qN/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Rainbow Pub, Wuhan
 - *2022.05*: [22&#39;s Midsummer Music Festival](https://www.bilibili.com/video/BV1qr4y1E7sh/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at Wuhan University
 - *2021.12*: [Top-10 Instrumentalists Contest](https://www.bilibili.com/video/BV1R3411476T/) at Wuhan University
 - *2021.09*: My **Favorite** [Solo &amp; Improvisation Drum Performance](https://www.bilibili.com/video/BV1aQ4y167AX/) at Wuhan University
-- *2020.12*: [2021 New Year&#39;s Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at [Qintai Concert Hall](https://qtconcerthall.polyt.cn/#/), Wuhan
+- *2020.12*: [2021 New Year Concert](https://www.bilibili.com/video/BV1Qp4y1q7yd/?share_source=copy_web&vd_source=8f0429a3bfdcc372918b74988b4ea093) at [Qintai Concert Hall](https://qtconcerthall.polyt.cn/#/), Wuhan
 
 ## 🎤 Voice & Eloquence
 
 - I'm recently in love with **Hamilton** (the Broadway musical), I can rap or sing at least 15 songs in the play.
 
-- I developed a strong passion for delivering English speeches during my junior school years, after winning several championships in English speaking contests.
+- After winning several championships in English speaking contests, I developed a strong passion for delivering English speeches during my junior school years.
 - My favorite speech is Lincoln's Gettysburg Address.
 - My TOEFL single best score is 112 with **28** for speaking, thanks to my day-to-day oral practice. I also scored 330 (v162 + q168 + w4.0) in GRE.
 
-## 🏀 Basketball Team
+## 🏀 Basketball
 
-- I played Shooting Guard at the Men's Basketball Team of SCSE during my undergrad years
+- I played as a Shooting Guard on the Men's Basketball Team of WHU SCSE during my undergrad years
