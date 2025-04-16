@@ -118,7 +118,7 @@ Sorted by date of acceptance.
 
 - *2024.04 - 2024.07*, Machine Learning Engineer Intern at TikTok ([ByteDance](https://www.bytedance.com/))
 
-## 🔬 Research
+## 🎓 Academic
 
 - *2025.01 - now*, Research Assistant at [CMU](https://www.cmu.edu/), under the supervision of Prof. [Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/) and Dr. [Yaqi Xie](https://yaqi-xie.me/).
 - *2024.11 - 2025.03*, Research Assistant at [MIT](https://www.mit.edu/) and [HKUST](https://hkust.edu.hk/), under the supervision of Prof. [Paul Pu Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://mayrfung.github.io/) (Now Assistant Professor at HKUST).
@@ -130,7 +130,7 @@ Sorted by date of acceptance.
 
 # 🎢 Activities
 
-## **Academic Services**
+## 📚 Academic Services
 
 **Conference Reviewer:**
 
@@ -150,9 +150,9 @@ Sorted by date of acceptance.
 
 - Applied Intelligence Journal, Springer Nature
 
-## University Services
+## 🏛️ University Services
 
-- *2020.09 - 2023.09*, Chief Percussionist at Wuhan University Symphony Orchestra
+- *2020.09 - 2023.09*, Chief Percussionist at Wuhan University Symphony Orchestra 🎼
 
 <!-- 
 
@@ -167,13 +167,13 @@ Sorted by date of acceptance.
 
 -->
 
-# 🍲 Misc
+# 🪩 Misc
 
 ## 🥁 Music Band & Symphony Orchestra
 
-I have been practicing and performing percussion instruments for 18+ years (since 4 years old). My repertoire of performance skills includes instruments found in symphony orchestras and other types of music (Rock, Funk, Jazz, Pop, Chinese Folk music, etc.), such as the Snare drum, Timpani, Bass drum, Drum kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, etc.
+I've been playing percussion instruments for over 18 years — ever since I was 4. From symphony halls to rock stages, I’ve played across genres, including Jazz, Funk, Pop, and Chinese Folk. I’m proficient in a wide range of instruments used in orchestras and beyond, such as Snare Drum, Timpani, Bass Drum, Drum Kit, Cymbals, Triangle, Chimes, Glockenspiel, Vibraphone, Xylophone, Marimba, Tambourine, Conga, Gong, Clave, and more.
 
-Here are some selected recordings of my performances:
+Sounds from the sticks — selected performances below👇
 
 - *2023.12*: [New Year's Eve celebration (Most songs played in a single performance)](https://www.bilibili.com/video/BV1Hi4y1r7f5/) at SCSE, Wuhan University
 - *2023.05*: [23&#39;s Rock Music Festival (武大制噪)](https://www.bilibili.com/video/BV1TP411X7Xo/) at Wuhan University
@@ -185,12 +185,12 @@ Here are some selected recordings of my performances:
 
 ## 🎤 Voice & Eloquence
 
-- I'm recently in love with **Hamilton** (the Broadway musical), I can rap or sing at least 15 songs in the play.
+- I'm recently in love with **Hamilton** (the Broadway musical), I can rap or sing at least 15 songs in the play. And yes, *Guns and Ships*? No sweat.
 
-- After winning several championships in English speaking contests, I developed a strong passion for delivering English speeches during my junior school years.
-- My favorite speech is Lincoln's Gettysburg Address.
-- My TOEFL single best score is 112 with **28** for speaking, thanks to my day-to-day oral practice. I also scored 330 (v162 + q168 + w4.0) in GRE.
+- I discovered my passion for public speaking during junior high, after winning several championships in English speech contests.
+- One of my favorite speeches is Lincoln’s **Gettysburg Address**, which I still revisit from time to time.
+- I scored single-best 112 on TOEFL (**28** in speaking) and **330** on GRE (V162 + Q168 + W4.0). Daily speaking practice pays off.
 
 ## 🏀 Basketball
 
-- I played as a Shooting Guard on the Men's Basketball Team of WHU SCSE during my undergrad years
+- I was the shooting guard for the WHU SCSE Men's Basketball Team back in undergrad.
