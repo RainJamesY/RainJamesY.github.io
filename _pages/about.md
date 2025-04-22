@@ -154,8 +154,6 @@ Sorted by date of acceptance.
 
 - *2020.09 - 2023.09*, Chief Percussionist at Wuhan University Symphony Orchestra 🎼
 
-<!-- 
-
 ## Teaching Experiences
 
 - Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023. [[Lecture Slides](..\slides\Nasty_teacher.pdf)] [[Lecture Slides](..\slides\FuzzLLM.pdf)]
@@ -164,8 +162,6 @@ Sorted by date of acceptance.
 ## Invited Talks
 
 - How to prepare for TOEFL listening and speaking, Spring 2023. [[Lecture Slides](..\slides\托福听力口语分享.pdf)]
-
--->
 
 # 🪩 Misc
 
@@ -194,3 +190,4 @@ Sounds from the sticks — selected performances below👇
 ## 🏀 Basketball
 
 - I was the shooting guard for the WHU SCSE Men's Basketball Team back in undergrad.
+
