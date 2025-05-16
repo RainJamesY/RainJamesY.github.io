@@ -30,6 +30,8 @@ My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal
 
 # 🔥 News
 
+- *2025.05*: 🎉 One paper is accepted by ACL 2025 Main Conference.
+
 - *2025.04*: 📝 Invited as a reviewer for NeurIPS 2025.
 
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024.
@@ -66,6 +68,8 @@ My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal
 - [VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues](https://arxiv.org/abs/2502.12084) [[arXiv]](https://arxiv.org/abs/2502.12084) [[project page]](https://vlm2-bench.github.io/)
 
     **Dongyu Yao<sup>&dagger;</sup>**, Jianshu Zhang<sup>&dagger;</sup>, Renjie Pi, Paul Pu Liang, Yi R. (May) Fung
+
+    [Annual Meeting of the Association for Computational Linguistics, 2025](https://2025.aclweb.org/)
 
 - [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/file/a5a5b0ff87c59172a13342d428b1e033-Paper-Conference.pdf) [[arXiv]](https://arxiv.org/abs/2401.15668)[[Code]](https://github.com/AaronComo/LipFD)
 
