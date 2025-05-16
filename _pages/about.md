@@ -69,7 +69,7 @@ My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal
 
     **Dongyu Yao<sup>&dagger;</sup>**, Jianshu Zhang<sup>&dagger;</sup>, Renjie Pi, Paul Pu Liang, Yi R. (May) Fung
 
-    [Annual Meeting of the Association for Computational Linguistics, 2025](https://2025.aclweb.org/)
+    *[Annual Meeting of the Association for Computational Linguistics (ACL), 2025](https://2025.aclweb.org/)*
 
 - [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://proceedings.neurips.cc/paper_files/paper/2024/file/a5a5b0ff87c59172a13342d428b1e033-Paper-Conference.pdf) [[arXiv]](https://arxiv.org/abs/2401.15668)[[Code]](https://github.com/AaronComo/LipFD)
 
