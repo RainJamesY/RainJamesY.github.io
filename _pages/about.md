@@ -65,7 +65,7 @@ My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
-- [VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues](https://arxiv.org/abs/2502.12084) [[arXiv]](https://arxiv.org/abs/2502.12084) [[project page]](https://vlm2-bench.github.io/)
+- [VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues](https://aclanthology.org/2025.acl-long.372.pdf) [[arXiv]](https://arxiv.org/abs/2502.12084) [[project page]](https://vlm2-bench.github.io/)
 
     **Dongyu Yao<sup>&dagger;</sup>**, Jianshu Zhang<sup>&dagger;</sup>, Renjie Pi, Paul Pu Liang, Yi R. (May) Fung
 
