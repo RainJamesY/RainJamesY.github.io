@@ -30,6 +30,8 @@ My research interests focus on **Data-centric AI** and **Reliable** (Multi-modal
 
 # 🔥 News
 
+- *2025.11*: 📝 Invited as a reviewer for ICASSP 2026.
+
 - *2025.05*: 🎉 **VLM2-Bench** is accepted by ACL 2025 Main Conference.
 
 - *2025.04*: 📝 Invited as a reviewer for NeurIPS 2025.
@@ -146,6 +148,8 @@ Sorted by date of acceptance.
 ## 📚 Academic Services
 
 **Conference Reviewer:**
+
+- International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026
 
 - Annual Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)), 2025.
 
